@@ -1,0 +1,28 @@
+{
+  "name": "bocchiuserbot",
+  "version": "1.0.0",
+  "description": "userbot for my profile in the telegram",
+  "main": "main.js",
+  "scripts": {
+    "dev": "tsnd --respawn --transpile-only src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danzok/BocchiUserbot.git"
+  },
+  "keywords": [
+    "userbot",
+    "bocchiuserbot",
+    "bocchibot",
+    "bot-telegram"
+  ],
+  "author": "danzok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danzok/BocchiUserbot/issues"
+  },
+  "homepage": "https://github.com/danzok/BocchiUserbot#readme",
+  "dependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
